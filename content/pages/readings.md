@@ -62,13 +62,13 @@ Robertson, Kent A. "Downtown Retail Revitalization: A Review of American Develop
 
 Austin, James, and Arthur McCaffrey. "Business Leadership Coalitions and Public-Private Partnerships in American Cities: A Business Perspective on Regime Theory." *Journal of Urban Affairs* 24, no. 1 (2002): 35-54.
 
-Birch, Eugenie L. "Who Lives Downtown." Brookings Institution Working Paper. Washington, DC: Brookings Institute, 2005, pp. 1-20. ([PDF](https://www.brookings.edu/research/who-lives-downtown/))
+Birch, Eugenie L. "Who Lives Downtown." Brookings Institution Working Paper. Washington, DC: Brookings Institute, 2005, pp. 1-20. ({{% resource_link "2c96b747-b75d-48a9-94cc-e0f0d2760f66" "PDF" %}})
 
 Greenblatt, Alan. "Downtown Renaissance: Are Center Cities Finally Returning to Health?" *Congressional Quarterly Researcher* 16, no. 24 (2006): 553-576.
 
 *Recommended Readings*
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/downtown-inc) Frieden, Bernard J., and Lynne B. Sagalyn. [*Downtown, Inc.: How America Rebuilds Cities*](https://mitpress.mit.edu/books/downtown-inc). Cambridge, MA: MIT Press, 1989. ISBN: 0262560593.
+{{% resource_link "87d8b8a8-bb25-431a-950d-586a1152e2d6" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Frieden, Bernard J., and Lynne B. Sagalyn. {{% resource_link "87d8b8a8-bb25-431a-950d-586a1152e2d6" "*Downtown, Inc.: How America Rebuilds Cities*" %}}. Cambridge, MA: MIT Press, 1989. ISBN: 0262560593.
 
 Birch, Eugenie L. "Having a Longer View on Downtown Living." *Journal of the American Planning Association* 68 (2002): 1-27.
 
@@ -84,7 +84,7 @@ Pack, Janet Rothenberg. "BIDs, DIDs, SIDs, and SADs: Private Governments in Urba
 
 Briffault, Richard. "A Government for Our Time? Business Improvement Districts and Urban Governance." *Columbia Law Review* 99, no. 2 (1999): 365-477.
 
-Mitchell, Jerry. "Business Improvement Districts and Innovative Service Delivery." New York, NY: The PricewaterhouseCoopers Endowment for the Business of Government, 1999. ([PDF](https://www.businessofgovernment.org/sites/default/files/Mitchell.pdf))
+Mitchell, Jerry. "Business Improvement Districts and Innovative Service Delivery." New York, NY: The PricewaterhouseCoopers Endowment for the Business of Government, 1999. ({{% resource_link "34a35fea-348d-4501-9ad5-81a3e82926a9" "PDF" %}})
 
 ———. "Business Improvement Districts and the 'New' Revitalization of Downtown." *Economic Development Quarterly* 15 (2001): 115-123.
 
@@ -130,7 +130,7 @@ Ellen, Ingrid Gould, and Amy Schwartz. "BIDs in New York City." Draft paper to b
 
 Gross, Jill Simone. "Business Improvement Districts in New York City's Low-Income and High-Income Neighborhoods." *Economic Development Quarterly* 19, no. 2 (2005): 174-189.
 
-Adler, Moshe. [Testimony before the City Council of the City of New York Committee on Finance (PDF)](http://www.goodjobsny.org/sites/default/files/docs/testimony_sandy_tracker_bill_november_2013_final.pdf), September 12, 2002.
+Adler, Moshe. {{% resource_link "4f7d6a35-01f1-4652-9834-cedbbc897b5d" "Testimony before the City Council of the City of New York Committee on Finance (PDF)" %}}, September 12, 2002.
 
 Rogowsky, Edward, and Jill Simone Gross. "Managing Development in New York City: The Case of Business Improvement Districts." In *Managing Capital Resources for Central City Revitalization*. New York, NY: Garland Publishing, 1999, pp. 81-87. ISBN: 0815332130.
 
@@ -156,21 +156,21 @@ Morcol, Goktug, and Patricia A. Patrick. "Business Improvement Districts in Penn
 
 Houstoun, Lawrence O. *Business Improvement Districts*. Washington, DC: Urban Land Institute, 2003, pp. 38-69. ISBN: 0874209005.
 
-[City Avenue Special Services District](http://www.cityave.org/)
+{{% resource_link "2e1ec18e-2ee9-41d7-8fc7-91d9d4212c34" "City Avenue Special Services District" %}}
 
 Pennsylvania's Neighborhood Improvement District Legislation, 1998 ({{% resource_link "8860b279-5309-196a-8b0d-2c0de8a17815" "PDF" %}})
 
 Pennsylvania's Neighborhood Improvement District Legislation, 1999 ({{% resource_link "e7161156-437c-203d-1ebc-3327ff702720" "PDF" %}})
 
-[New Orleans](http://www.neworleansonline.com/)
+{{% resource_link "a71b1d4a-6161-4cd5-9565-8289bcf79cbe" "New Orleans" %}}
 
-[French Quarter](http://www.frenchquarter.com/)
+{{% resource_link "d11a412b-c363-4fad-a587-607e40fb6811" "French Quarter" %}}
 
-[New Orleans Downtown Development District](https://downtownnola.com/)
+{{% resource_link "04411f72-9cc5-4906-84f4-539240214165" "New Orleans Downtown Development District" %}}
 
-[Baton Rouge Downtown Development District](http://www.downtownbr.org/)
+{{% resource_link "1d12f7f9-84d4-4499-b53b-46802a97b732" "Baton Rouge Downtown Development District" %}}
 
-[Shreveport Downtown Development Authority](http://www.downtownshreveport.com/)
+{{% resource_link "6d8b4740-3049-4b38-922a-f19bd34a1cf1" "Shreveport Downtown Development Authority" %}}
 
 *Recommended Readings*
 
@@ -190,11 +190,11 @@ Guest speaker: Anne Meyers, President of the Downtown Crossing Association, Bost
 
 *Required Readings*
 
-[Downtown Crossing Association](http://www.downtowncrossing.org/)
+{{% resource_link "cc4bbfb6-9159-4075-86c0-64cbc9d7f9ee" "Downtown Crossing Association" %}}
 
-Read the site: [Massachusetts Bay Transportation Authority](http://www.mbta.com/schedules_and_maps/subway/lines/?route=RED) Take the Red Line from Kendall/MIT to Downtown Crossing Station. Explore the area.
+Read the site: {{% resource_link "748c3e52-121c-400b-8f5a-eeb10d68c159" "Massachusetts Bay Transportation Authority" %}} Take the Red Line from Kendall/MIT to Downtown Crossing Station. Explore the area.
 
-A Guide to Establishing a BID in Massachusetts ([PDF](https://www.mass.gov/doc/2020-revised-business-improvement-district-manual-0/download))
+A Guide to Establishing a BID in Massachusetts ({{% resource_link "6b9d671f-a462-410d-b3a5-7ed81bbb71f1" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -208,21 +208,21 @@ Guest speakers: Chris Leinberger, Professor of Practice and Director of the Grad
 
 *Required Readings*
 
-[City of Reading, Pennsylvania](https://www.readingpa.gov/)
+{{% resource_link "8cd6f74d-a300-4f99-9909-6aed2169b910" "City of Reading, Pennsylvania" %}}
 
-[West Reading Main Street](http://visitwestreading.com/)
+{{% resource_link "d918ecb1-0c5b-43e3-8223-14beec0368e7" "West Reading Main Street" %}}
 
-[Goggleworks](http://www.goggleworks.org/)
+{{% resource_link "cbfa579d-6f6c-4764-8fba-c03e3e2b2915" "Goggleworks" %}}
 
-[Initiative for a Competitive Inner City](http://community-wealth.org/content/initiative-competitive-inner-city-icic)
+{{% resource_link "930c1a30-f08d-4151-922a-faaa435344b3" "Initiative for a Competitive Inner City" %}}
 
-[Initiative for a Greater Competitive Reading](http://www.greaterreading.com/)
+{{% resource_link "13281ddd-f06f-494c-86fc-b6eeb18a2f26" "Initiative for a Greater Competitive Reading" %}}
 
-Leinberger, Christopher B. "Turning Around Downtown: Twelve Steps to Revitalization." Washington, DC: Brookings Institute, 2005, pp. 1-24. ([PDF](https://www.brookings.edu/research/turning-around-downtown-twelve-steps-to-revitalization/))
+Leinberger, Christopher B. "Turning Around Downtown: Twelve Steps to Revitalization." Washington, DC: Brookings Institute, 2005, pp. 1-24. ({{% resource_link "72dae6bf-5e76-47d0-8723-23f5d33d1a98" "PDF" %}})
 
-———. [Urban Land Strategist and Developer](http://www.cleinberger.com/).
+———. {{% resource_link "6e1250ff-e22a-4c45-89da-b5fbc2e809a0" "Urban Land Strategist and Developer" %}}.
 
-[Harvard's Institute for Strategy and Competitiveness](http://www.isc.hbs.edu/Pages/default.aspx)
+{{% resource_link "fe03cb4a-9341-4c93-ae6e-8ef5529a1761" "Harvard's Institute for Strategy and Competitiveness" %}}
 
 Porter, Michael E. "New Strategies for Inner-City Economic Development." *Economic Development Quarterly* 11, no. 1 (1997): 28-38.
 
@@ -244,7 +244,7 @@ Hoyt, Lorlene. "Importing Ideas: The Transnational Transfer of Urban Revitalizat
 
 ———. "Planning Through Compulsory Commercial Clubs: Business Improvement Districts." *Economic Affairs* 25, no. 4 (2005): 24-27.
 
-———. [The Business Improvement District: An Internationally Diffused Approach for Revitalization](http://www.ida-downtown.org/eweb/startpage.aspx?tabindex=4&tabid=45). Washington, DC: International Downtown Association, 2005, pp. 1-65.
+———. {{% resource_link "434d465c-106a-434c-b616-8a7e5b37fac0" "The Business Improvement District: An Internationally Diffused Approach for Revitalization" %}}. Washington, DC: International Downtown Association, 2005, pp. 1-65.
 
 Hernandez, Tony, and Ken Jones. "Emerging Business Improvement Area Strategies in Canada." In *Business Improvement Districts: Research, Theories, and Controversies*. Oxford, UK: Taylor and Francis Books, 2007. (Forthcoming.)
 
@@ -284,17 +284,17 @@ Coffey, W. J., M. Polese, and R. Drolet. "Examining the Thesis of a Central Busi
 
 Gauteng City Improvement District Bill, 1997 ({{% resource_link "d623ed6a-94ea-07de-5055-0d5160713202" "PDF" %}})
 
-[International Downtown Association](http://www.ida-downtown.org/eweb/startpage.aspx)
+{{% resource_link "0ad8b6b3-ea29-467b-9c99-493c7b518585" "International Downtown Association" %}}
 
-[Toronto Association of Business Improvement Areas](http://www.toronto-bia.com/)
+{{% resource_link "de7b420c-1da6-4893-a9ca-93c5d54e726f" "Toronto Association of Business Improvement Areas" %}}
 
-[Business Improvement Areas of British Columbia](http://www.bia.bc.ca/)
+{{% resource_link "dcafc9fa-9b91-411f-83bb-ec69d10af9a7" "Business Improvement Areas of British Columbia" %}}
 
 Central Johannesburg Partnership
 
-[Cape Town Partnership](https://www.capetown.travel/listing/cape-town-partnership/)
+{{% resource_link "9d03a5dd-cfe5-4494-b7e9-b77c7317fc3f" "Cape Town Partnership" %}}
 
-[Association of Town Centre Management](http://www.atcm.org/)
+{{% resource_link "ee24af09-6798-4944-8a09-ba9812819fa7" "Association of Town Centre Management" %}}
 
 *Recommended Readings*
 
