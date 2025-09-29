@@ -5,6 +5,8 @@ description: This resource gives information on toronto's BIDs, and internationa
 file: /courses/11-422-downtown-management-organizations-fall-2006/de46885d713cdb7fcd8b135e85f028e1_lecture2canada.pdf
 file_size: 236258
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

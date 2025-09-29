@@ -5,6 +5,8 @@ description: This resource gives information on the emergence of the BID in sout
 file: /courses/11-422-downtown-management-organizations-fall-2006/a914719049764314ab076c896abeee71_lecture5.pdf
 file_size: 413867
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
