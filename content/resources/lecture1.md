@@ -5,8 +5,6 @@ description: This resource gives information on introduction to the course, and 
 file: /courses/11-422-downtown-management-organizations-fall-2006/3642fd013ebcca90a7a045e34d30bd91_lecture1.pdf
 file_size: 84851
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

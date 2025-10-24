@@ -4,8 +4,6 @@ description: ''
 file: /courses/11-422-downtown-management-organizations-fall-2006/45551dc358fc37582008d93a2eea9023_chp_picture1.jpg
 file_size: 63631
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
